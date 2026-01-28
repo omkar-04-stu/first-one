@@ -1,2 +1,2 @@
-# patya
+# ommya
 nothing
